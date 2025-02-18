@@ -1,0 +1,20 @@
+.class1 {
+    background-color: salmon;
+    font-family: sans-serif;
+}
+
+.cooler {
+    font-size: large;
+}
+
+#id2 {
+    color: blue;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+#id4 {
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: large;
+}
