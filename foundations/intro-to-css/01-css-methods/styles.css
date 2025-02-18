@@ -8,6 +8,7 @@ div.main-div {
     background-color: lightgoldenrodyellow;
     padding: 5px;
     padding-top: 10px;
+}
 
 div.sub-div {
     background-color: brown;
@@ -16,17 +17,4 @@ div.sub-div {
     font-size: 20px;
     font-weight: 700;
 
-}
-
-p {
-    background-color: green;
-    color: antiquewhite;
-}
-
-button {
-    background-color: darkgoldenrod;
-    padding: 5px;
-    font-size:medium;
-    font-family: sans-serif;
-    letter-spacing: 2px;
 }
