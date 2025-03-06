@@ -30,6 +30,7 @@ body {
 
 .rightTop {
   display: flex;
+  align-items: center;
 }
 
 .rightMiddle {
