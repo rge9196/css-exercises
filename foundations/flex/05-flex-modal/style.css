@@ -20,7 +20,31 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  display: flex;
 }
+
+.rightSide {
+  margin: 15px 0;
+
+}
+
+.rightTop {
+  display: flex;
+}
+
+.rightMiddle {
+  margin: 15px 0;
+}
+
+.rightBottom {
+  margin: 15px 0 ;
+}
+
+.header {
+  font-weight: bold;
+}
+
+
 
 .icon {
   color: royalblue;
@@ -33,6 +57,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin: 15px;
 }
 
 .close-button {
@@ -48,6 +73,8 @@ body {
   justify-content: center;
   border: 1px solid #eee;
   padding: 0;
+  margin-left: auto;
+  margin-right: 15px;
 }
 
 button {
